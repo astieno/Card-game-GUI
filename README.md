@@ -5,7 +5,7 @@ Code is available upon request.
 
 ## The GUI and its explanations
 
-<img width="575" height="288" alt="image" src="https://github.com/user-attachments/assets/50383345-ea35-4273-b23a-a893591f3147" />
+<img width="575" height="288" alt="Image" src="https://github.com/user-attachments/assets/675ceeec-0fce-4ced-909b-5fb09a9b15a4" />
 
 *The player configuration screen. Here, the option to add one or two players is presented.*
 
